@@ -1,0 +1,785 @@
+Delivered-To: brydavis.mpa@gmail.com
+Received: by 10.96.109.228 with SMTP id hv4csp26877qdb;
+        Sat, 12 Jul 2014 20:06:01 -0700 (PDT)
+X-Received: by 10.236.216.16 with SMTP id f16mr14662485yhp.90.1405220761201;
+        Sat, 12 Jul 2014 20:06:01 -0700 (PDT)
+Return-Path: <bounces+4806-3b01-brydavis.mpa=gmail.com@email.quora.com>
+Received: from o5.email.quora.com (o5.email.quora.com. [167.89.12.228])
+        by mx.google.com with SMTP id l101si12265448yhq.125.2014.07.12.20.06.00
+        for <brydavis.mpa@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 12 Jul 2014 20:06:01 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+4806-3b01-brydavis.mpa=gmail.com@email.quora.com designates 167.89.12.228 as permitted sender) client-ip=167.89.12.228;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+4806-3b01-brydavis.mpa=gmail.com@email.quora.com designates 167.89.12.228 as permitted sender) smtp.mail=bounces+4806-3b01-brydavis.mpa=gmail.com@email.quora.com;
+       dkim=pass header.i=@email.quora.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=email.quora.com; 
+	h=content-type:mime-version:from:to:subject:list-unsubscribe; 
+	s=smtpapi; bh=xw4x6FQHMgLZ5EGdcidzfjadGus=; b=Zz7JWNJDa7Arl1Og4+
+	/teDL7D7iGluIW6v6IdnNKIXNiDNKogQqRyHjjHMwoix0hiigRTgVH8PuvM25O65
+	hVyd0WyoyYha3dIIQUwFzz0M9erQHbabJMzo28XfSCj5jMEcxEdmE/vw4iQXVf2i
+	NMlG22pGpv7dNPGnPtMSJQx4U=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=content-type:mime-version:from:to:subject:list-unsubscribe:x-feedback-id; 
+	s=smtpapi; bh=xw4x6FQHMgLZ5EGdcidzfjadGus=; b=mHmplNhR/+QdxwIzE5
+	7xDf48EhW0tsapXl9gv0sl0W71/gxYK/mMwpZ39aeW+9OChJHjLEbdQajaFJVUaa
+	8fQKLXqnmpX/7NhNxhUcw7nG+EEh5PHK07SETBRz9zpCcYPuWlntLV4cZXMXKgOf
+	hunBGR8y8srR/so01ExHEtHoA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=quora.com; 
+	h=content-type:mime-version:from:to:subject:list-unsubscribe; 
+	q=dns; s=smtpapi; b=oH7JqKDPO4rIykSDYiEs4U5DsobQORTApEguL+WcHoVr
+	k5Eq7GIlijq7w9tPAAfSP0H9LrxQm9thpaiApjtoB2VxeOc5ksagL77ioc8qjb58
+	VC59TmxGAixppFsPDENDM8sVC8Ie43Ru+pkpiHPd55qtZOqGJl3oeQ2hOzpVN0M=
+Received: by mf189.sendgrid.net with SMTP id mf189.29008.53C1F7983
+        2014-07-13 03:06:00.145680528 +0000 UTC
+Received: from [10.0.5.18] (unknown [54.88.218.131])
+	by ismtpd-028.iad1.sendgrid.net (SG) with ESMTP id 1472dae610d.362c.760015
+	for <brydavis.mpa@gmail.com>; Sun, 13 Jul 2014 03:05:08 +0000 (GMT)
+Content-Type: multipart/alternative; boundary="===============1681625162=="
+MIME-Version: 1.0
+From: Quora Digest <digest-noreply@quora.com>
+To: brydavis.mpa@gmail.com
+Subject: Why doesn't Arjen Robben take penalty shots? - Quora
+List-Unsubscribe: <http://www.quora.com/email_optout/qemail_optout?code=f625b677702791450617707ba430d97d&type=2&email=brydavis.mpa%40gmail.com>
+Message-ID: <1472dae610d.362c.760015@ismtpd-028.iad1.sendgrid.net>
+Date: Sun, 13 Jul 2014 03:06:00 +0000 (UTC)
+X-SG-EID: RwR4VAdiqkc/cPFo6DTUr/GD9ElQS8hygDK8Rvncf+IiQLqNUtfXprxYyAk7sqDsoskBpMtENQl13TNiZhDLIVTt6pEkZ+D1Dd9CyX5XbnVxH2Q5+8PdIGrwWPBkXY7ADgME9XO0auJkE//jFQ85uqD8Ox0Zy4GsieLi0CayrjA=
+X-Feedback-ID: 4806:E0LXNvglEZJ7+yvA8NLSFCOcASHhTEsuUuGwmWJwXz4=:E0LXNvglEZJ7+yvA8NLSFCOcASHhTEsuUuGwmWJwXz4=:SG
+
+--===============1681625162==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Your Quora Digest
+Top Stories from Your Feed
+
+-----
+
+
+Question: Why doesn't Arjen Robben take penalty shots?
+
+Answer from Geoffrey Reemer
+In this case, Robben as acting team captain had to decide who had the best =
+chance of scoring the goal. Robben had already given his all for 90 minutes=
+ in a boiling stadium (almost 40 degrees C). He was exhausted. Klaas-Jan Hu=
+ntelaar had just come into the game ten minutes before the penalty. He was =
+still fresh and focused, and he is known as an excellent penalty shooter. S=
+o he offered Huntelaar to
+Read More: http://www.quora.com/Why-doesnt-Arjen-Robben-take-penalty-shots#=
+ans5803778
+-----
+Question: What can I start doing now that will help me a lot in about five =
+years?
+
+Answer from Sandy Kelty
+I just lost my son of 23 years ...two months  ago in a tragic bike accident=
+, he was riding to work and was hit by a school bus. He loved Quora and got=
+ me hooked.=20
+
+Live with a smile in your eyes, it carries thru to others.
+Be passionate about learning, read, read, read. Everything, cross genres. C=
+hildren's books, tech books, Quora, newspapers, blogs.=20
+Listen, then talk, then listen again.
+Don't be
+Read More: http://www.quora.com/What-can-I-start-doing-now-that-will-help-m=
+e-a-lot-in-about-five-years#ans5901599
+-----
+Question: What would happen if the Vice President of the United States kill=
+ed the President of the United States?
+
+Answer from Mark Binfield
+The first thing that would happen is that under Section 1 of the Twenty-Fif=
+th Amendment, the Vice President would automatically become President.
+=20
+If the circumstances of the murder were clear (e.g. the Vice President shot=
+ the President in public), the second thing that would happen, probably wit=
+hin hours, would be a vote by Congress to begin impeachment of the new Pres=
+ident.
+=20
+It's also possible
+Read More: http://www.quora.com/What-would-happen-if-the-Vice-President-of-=
+the-United-States-killed-the-President-of-the-United-States#ans4824386
+-----
+Question: Why do Chinese people always like to point out that China has a 5=
+,000 year old history when in fact it is the same for pretty much everywher=
+e on Earth?
+
+Answer from Judith Meyer
+Because the Chinese identify more with their early history than other place=
+s do. For example, French students learn about "the Romans", not "the Frenc=
+h nation in 50 BC". Already the naming shows that we consider them a people=
+ apart, a people that gave us interesting ideas for sure but not a natural =
+part of our own nation states. For China, the history of "our people" reall=
+y goes back thousands of=20
+Read More: http://www.quora.com/Why-do-Chinese-people-always-like-to-point-=
+out-that-China-has-a-5-000-year-old-history-when-in-fact-it-is-the-same-for=
+-pretty-much-everywhere-on-Earth#ans4805801
+-----
+Question: What are the strangest ways people have become famous?
+
+Answer from Makiko Itoh
+Henrietta Lacks
+
+
+Henrietta Lacks became famous, not because of anything she did during her l=
+ife, but because she had exceptionally robust cells. An African-American mo=
+ther of five, she developed cervical cancer and died in 1951 when she was o=
+nly 31. While she was still alive, and without her knowledge, cells from he=
+r cervix (both cancerous and healthy) were given to researcher George Otto =
+Gey at=20
+Read More: http://www.quora.com/Fame-and-Mass-Popularity/What-are-the-stran=
+gest-ways-people-have-become-famous#ans1773796
+-----=
+
+--===============1681625162==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html public "-//w3c//dtd xhtml 1.0 transitional //en" "http://www=
+.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd"><html><head><style type=3D"t=
+ext/css">@media only screen and (max-device-width:480px){body{padding:0!imp=
+ortant;margin:0!important;width:100%!important}table[class=3Dw0],td[class=
+=3Dw0]{width:0!important}table[class=3Dw10],td[class=3Dw10],img[class=3Dw10=
+]{width:10px!important}table[class=3Dw15],td[class=3Dw15],img[class=3Dw15]{=
+width:5px!important}table[class=3Dw30],td[class=3Dw30],img[class=3Dw30]{wid=
+th:10px!important}table[class=3Dw60],td[class=3Dw60],img[class=3Dw60]{width=
+:10px!important}table[class=3Dw125],td[class=3Dw125],img[class=3Dw125]{widt=
+h:80px!important}table[class=3Dw130],td[class=3Dw130],img[class=3Dw130]{wid=
+th:55px!important}table[class=3Dw140],td[class=3Dw140],img[class=3Dw140]{wi=
+dth:90px!important}table[class=3Dw160],td[class=3Dw160],img[class=3Dw160]{w=
+idth:180px!important}table[class=3Dw170],td[class=3Dw170],img[class=3Dw170]=
+{width:100px!important}table[class=3Dw180],td[class=3Dw180],img[class=3Dw18=
+0]{width:80px!important}table[class=3Dw195],td[class=3Dw195],img[class=3Dw1=
+95]{width:80px!important}table[class=3Dw220],td[class=3Dw220],img[class=3Dw=
+220]{width:80px!important}table[class=3Dw240],td[class=3Dw240],img[class=3D=
+w240]{width:180px!important}table[class=3Dw255],td[class=3Dw255],img[class=
+=3Dw255]{width:185px!important}table[class=3Dw275],td[class=3Dw275],img[cla=
+ss=3Dw275]{width:135px!important}table[class=3Dw280],td[class=3Dw280],img[c=
+lass=3Dw280]{width:135px!important}table[class=3Dw300],td[class=3Dw300],img=
+[class=3Dw300]{width:140px!important}table[class=3Dw325],td[class=3Dw325],i=
+mg[class=3Dw325]{width:95px!important}table[class=3Dw360],td[class=3Dw360],=
+img[class=3Dw360]{width:140px!important}table[class=3Dw410],td[class=3Dw410=
+],img[class=3Dw410]{width:180px!important}table[class=3Dw470],td[class=3Dw4=
+70],img[class=3Dw470]{width:200px!important}table[class=3Dw580],td[class=3D=
+w580],img[class=3Dw580]{width:280px!important}table[class=3Dw640],td[class=
+=3Dw640],img[class=3Dw640]{width:300px!important}table[class*=3Dhide],td[cl=
+ass*=3Dhide],img[class*=3Dhide],p[class*=3Dhide],span[class*=3Dhide]{displa=
+y:none!important}table[class=3Dh0],td[class=3Dh0]{height:0!important}p[clas=
+s=3Dfooter-content-left]{text-align:center!important}.article-content,#left=
+-sidebar{-webkit-text-size-adjust:90%!important;-ms-text-size-adjust:90%!im=
+portant}.header-content,.footer-content-left{-webkit-text-size-adjust:80%!i=
+mportant;-ms-text-size-adjust:80%!important}img{height:auto;line-height:100=
+%}}</style></head><body><html><body style=3D"width:100%; background-color:#=
+fff; margin:0; padding:0; font-family:'Helvetica Neue',Arial,Helvetica,sans=
+-serif" width=3D"100%" bgcolor=3D"#fff">
+<div style=3D"width:100%; height:100%; background:#eee; font-size:15px" wid=
+th=3D"100%" height=3D"100%">
+<table cellpadding=3D"0" border=3D"0" cellspacing=3D"0" id=3D"background_ta=
+ble" style=3D"width:680px; margin:20px auto; padding-top:20px; font-size:15=
+px" width=3D"680"><tbody><tr style=3D"border-collapse:collapse"><td bgcolor=
+=3D"#ffffff" align=3D"center" style=3D"font-family:'Helvetica Neue',Arial,H=
+elvetica,sans-serif; border-collapse:collapse"><table cellpadding=3D"0" bor=
+der=3D"0" style=3D"margin:0px;" cellspacing=3D"0"><tbody>
+<tr style=3D"border-collapse:collapse"><td width=3D"100%" align=3D"left" id=
+=3D"header" style=3D"border-collapse:collapse; color:#333; font-family:'Hel=
+vetica Neue',Arial,Helvetica,Geneva,sans-serif; text-align:left; font-size:=
+1em; padding:20px 0; border-bottom:2px solid #eee">
+<span style=3D"color:white; font-size:1px; display:block;">Answer: In this =
+case, Robben as acting team captain had to decide who had the...</span><tab=
+le cellpadding=3D"0" border=3D"0" cellspacing=3D"0" width=3D"100%"><tr styl=
+e=3D"border-collapse:collapse">
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; width:35px" width=3D"35">&#160;</td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse"><table cellpadding=3D"0" border=3D"0" cellspacing=3D"0=
+"><tr style=3D"border-collapse:collapse">
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; padding-top:5px"><a href=3D"http://www.quora.com/qemai=
+l/track_click?uid=3D9rZnI5Zbbwq&amp;aoid&amp;request_id=3D23889822083862853=
+8&amp;aoty=3D7&amp;et=3D2&amp;ty_data&amp;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D=
+&amp;ct=3D1405220691918663&amp;src=3D1&amp;ty&amp;click_pos=3D0&amp;st=3D14=
+05220706032597&amp;source&amp;stories=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zT=
+HpltB9tTF%7C1_qwmNh0i4xQx%7C1_o5xKRIceZlK&amp;v=3D0&amp;aty=3D4" style=3D"c=
+olor:#19558d; text-decoration:none"><img width=3D"99px" alt=3D"Quora" heigh=
+t=3D"43px" src=3D"http://d1vgw4v7ja2ido.cloudfront.net/-2739114efaa24251.gi=
+f" style=3D"outline:0; text-decoration:none; background:#a82400; color:whit=
+e; font-weight:bold"></a></td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; padding-left:20px">
+<div align=3D"left" id=3D"subheader" style=3D"margin-top:10px; font-size:15=
+px; color:#999">Your Quora Digest</div>
+<div id=3D"header" style=3D"color:#333; font-family:'Helvetica Neue',Arial,=
+Helvetica,Geneva,sans-serif; text-align:left; font-size:24px; margin-bottom=
+:4px; font-weight:bold" align=3D"left">Top Stories from Your Feed</div>
+</td>
+</tr></table></td>
+<td width=3D"30" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans=
+-serif; border-collapse:collapse">&#160;</td>
+</tr></table>
+</td></tr>
+<tr id=3D"simple-content-row" style=3D"border-collapse:collapse"><td bgcolo=
+r=3D"#ffffff" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-se=
+rif; border-collapse:collapse"><table cellpadding=3D"0" border=3D"0" style=
+=3D"width: 100%" cellspacing=3D"0"><tbody><tr style=3D"border-collapse:coll=
+apse">
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse"><table cellpadding=3D"0" border=3D"0" cellspacing=3D"0=
+"><tbody>
+<tr style=3D"border-collapse:collapse"><td style=3D"font-family:'Helvetica =
+Neue',Arial,Helvetica,sans-serif; border-collapse:collapse">
+<table cellpadding=3D"0" width=3D"650" cellspacing=3D"0" style=3D"line-heig=
+ht:1.2em; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; border-s=
+pacing:0; font-size:15px; border:0"><tbody><tr valign=3D"top" style=3D"bord=
+er-collapse:collapse">
+<td width=3D"0" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-=
+serif; border-collapse:collapse"><img width=3D"1" style=3D"outline:0; text-=
+decoration:none; border-style:none" height=3D"1" src=3D"http://qsf.is.quora=
+cdn.net/-9da8ebb0c97aa4ad.gif"></td>
+<td width=3D"650" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,san=
+s-serif; border-collapse:collapse; padding:20px 0 0"><table cellpadding=3D"=
+0" width=3D"650" cellspacing=3D"0" style=3D"line-height:1.2em; font-family:=
+'Helvetica Neue',Helvetica,Arial,sans-serif; border-spacing:0; font-size:15=
+px; border:0"><tbody><tr valign=3D"top" style=3D"border-collapse:collapse">
+<td valign=3D"top" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sa=
+ns-serif; border-collapse:collapse; width:35px; text-align:center" width=3D=
+"35" align=3D"center"></td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; width:555px; padding-bottom:20px; border-bottom:2px so=
+lid #eee" width=3D"555">
+<table><tbody><tr valign=3D"top" style=3D"border-collapse:collapse">
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; width:29px; text-align:left" width=3D"29" align=3D"lef=
+t"></td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse"></td>
+</tr></tbody></table>
+<div style=3D"text-align:left; font-family:'Helvetica Neue',Helvetica,Arial=
+,sans-serif" align=3D"left"><a href=3D"http://www.quora.com/qemail/track_cl=
+ick?uid=3D9rZnI5Zbbwq&amp;aoid=3DzzaSXe5u07a&amp;request_id=3D2388982208386=
+28538&amp;aoty=3D2&amp;et=3D2&amp;ty_data=3DI6P1I1pCpy&amp;id=3D6wpHPeYklX2=
+3G1RiIiMDqw%3D%3D&amp;ct=3D1405220691918663&amp;src=3D1&amp;ty=3D1&amp;clic=
+k_pos=3D1&amp;st=3D1405220706032597&amp;source=3D1&amp;stories=3D1_I6P1I1pC=
+py%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o5xKRIceZlK&amp;v=3D=
+0&amp;aty=3D4" style=3D"color:#19558d; text-decoration:none; font-weight:bo=
+ld">Why doesn't Arjen Robben take penalty shots?</a></div>
+<table cellpadding=3D"0" style=3D"width:555px; line-height:1.2em; font-fami=
+ly:'Helvetica Neue',Helvetica,Arial,sans-serif; border-spacing:0; font-size=
+:15px; border:0; margin-top:4px" cellspacing=3D"0" width=3D"555"><tbody>
+<td width=3D"28" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans=
+-serif; border-collapse:collapse; background-color:#FFFFFF; background-repe=
+at:no-repeat" background=3D"http://qsf.is.quoracdn.net/-f306c8411e95eb1c.jp=
+g" valign=3D"top" bgcolor=3D"#FFFFFF"><div style=3D"text-align:center; font=
+-weight:bold; font-size:.8em; width:28px; height:21px; margin:1px 0 1px 0" =
+align=3D"center" width=3D"28" height=3D"21"><a href=3D"http://www.quora.com=
+/qemail/track_click?uid=3D9rZnI5Zbbwq&amp;aoid=3DI6P1I1pCpy&amp;request_id=
+=3D238898220838628538&amp;aoty=3D1&amp;et=3D2&amp;ty_data=3DI6P1I1pCpy&amp;=
+id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=3D1405220691918663&amp;src=3D1&amp=
+;ty=3D1&amp;click_pos=3D1&amp;st=3D1405220706032597&amp;source=3D1&amp;stor=
+ies=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o5xK=
+RIceZlK&amp;v=3D0&amp;aty=3D4" style=3D"text-decoration:none; color:#538dc2=
+; display:block; text-align:center" align=3D"center">136</a></div></td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; padding-left:5px">
+<div style=3D"text-align:left; font-family:'Helvetica Neue',Helvetica,Arial=
+,sans-serif; margin-bottom:5px" align=3D"left"><div style=3D"font-weight: b=
+old">
+<a style=3D"text-decoration:none; color:#333333; font-weight:inherit" href=
+=3D"http://www.quora.com/qemail/track_click?uid=3D9rZnI5Zbbwq&amp;aoid=3DVw=
+EU7TMuYjT&amp;request_id=3D238898220838628538&amp;aoty=3D3&amp;et=3D2&amp;t=
+y_data=3DI6P1I1pCpy&amp;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=3D14052206=
+91918663&amp;src=3D1&amp;ty=3D1&amp;click_pos=3D1&amp;st=3D1405220706032597=
+&amp;source=3D1&amp;stories=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%=
+7C1_qwmNh0i4xQx%7C1_o5xKRIceZlK&amp;v=3D0&amp;aty=3D4">Geoffrey Reemer</a><=
+span style=3D"font-weight: bold">, Experienced Dutchman</span>
+</div></div>
+<div style=3D"text-align:left; font-family:'Helvetica Neue',Helvetica,Arial=
+,sans-serif; color:#333; line-height:1.4em; margin-bottom:5px" align=3D"lef=
+t"><a style=3D"text-decoration:none; color:#333" href=3D"http://www.quora.c=
+om/qemail/track_click?uid=3D9rZnI5Zbbwq&amp;aoid=3DI6P1I1pCpy&amp;request_i=
+d=3D238898220838628538&amp;aoty=3D1&amp;et=3D2&amp;ty_data=3DI6P1I1pCpy&amp=
+;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=3D1405220691918663&amp;src=3D1&am=
+p;ty=3D1&amp;click_pos=3D1&amp;st=3D1405220706032597&amp;source=3D1&amp;sto=
+ries=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o5x=
+KRIceZlK&amp;v=3D0&amp;aty=3D4"><div id=3D"ld_yuqtcs_450"><div id=3D"__w2_m=
+LKYVot_truncated">
+<div><div><img src=3D"http://qph.is.quoracdn.net/main-qimg-6549313aa193fed0=
+d9bca576dad6617d?convert_to_webp=3Dtrue" master_src=3D"http://qph.is.quorac=
+dn.net/main-qimg-62ff9f64241b1c8be06dbb7fc4f5ce30?convert_to_webp=3Dtrue" m=
+aster_w=3D"799" master_h=3D"540" style=3D"outline:0; text-decoration:none; =
+max-width:200px; max-height:100px; float:left; margin-right:5px; border-sty=
+le:none"></div></div>In this case, Robben as acting team captain had to dec=
+ide who had the best chance of scoring the goal. Robben had already given h=
+is all for 90 minutes in a boiling stadium ...&#160;<a style=3D"text-decora=
+tion:none; color:#538DC2" href=3D"http://www.quora.com/qemail/track_click?u=
+id=3D9rZnI5Zbbwq&amp;aoid=3DI6P1I1pCpy&amp;request_id=3D238898220838628538&=
+amp;aoty=3D1&amp;et=3D2&amp;ty_data=3DI6P1I1pCpy&amp;id=3D6wpHPeYklX23G1RiI=
+iMDqw%3D%3D&amp;ct=3D1405220691918663&amp;src=3D1&amp;ty=3D1&amp;click_pos=
+=3D1&amp;st=3D1405220706032597&amp;source=3D1&amp;stories=3D1_I6P1I1pCpy%7C=
+1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o5xKRIceZlK&amp;v=3D0&amp=
+;aty=3D4">Read More&#160;&#187;</a>
+</div></div></a></div>
+</td>
+</tbody></table>
+</td>
+</tr></tbody></table></td>
+<td width=3D"0" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-=
+serif; border-collapse:collapse"><img width=3D"1" style=3D"outline:0; text-=
+decoration:none; border-style:none" height=3D"1" src=3D"http://qsf.is.quora=
+cdn.net/-9da8ebb0c97aa4ad.gif"></td>
+</tr></tbody></table>
+<table cellpadding=3D"0" width=3D"650" cellspacing=3D"0" style=3D"line-heig=
+ht:1.2em; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; border-s=
+pacing:0; font-size:15px; border:0"><tbody><tr valign=3D"top" style=3D"bord=
+er-collapse:collapse">
+<td width=3D"0" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-=
+serif; border-collapse:collapse"><img width=3D"1" style=3D"outline:0; text-=
+decoration:none; border-style:none" height=3D"1" src=3D"http://qsf.is.quora=
+cdn.net/-9da8ebb0c97aa4ad.gif"></td>
+<td width=3D"650" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,san=
+s-serif; border-collapse:collapse; padding:20px 0 0"><table cellpadding=3D"=
+0" width=3D"650" cellspacing=3D"0" style=3D"line-height:1.2em; font-family:=
+'Helvetica Neue',Helvetica,Arial,sans-serif; border-spacing:0; font-size:15=
+px; border:0"><tbody><tr valign=3D"top" style=3D"border-collapse:collapse">
+<td valign=3D"top" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sa=
+ns-serif; border-collapse:collapse; width:35px; text-align:center" width=3D=
+"35" align=3D"center"></td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; width:555px; padding-bottom:20px; border-bottom:2px so=
+lid #eee" width=3D"555">
+<table><tbody><tr valign=3D"top" style=3D"border-collapse:collapse">
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; width:29px; text-align:left" width=3D"29" align=3D"lef=
+t"></td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse"></td>
+</tr></tbody></table>
+<div style=3D"text-align:left; font-family:'Helvetica Neue',Helvetica,Arial=
+,sans-serif" align=3D"left"><a href=3D"http://www.quora.com/qemail/track_cl=
+ick?uid=3D9rZnI5Zbbwq&amp;aoid=3DbTB2oU5kDOi&amp;request_id=3D2388982208386=
+28538&amp;aoty=3D2&amp;et=3D2&amp;ty_data=3DjfLxmluhoUa&amp;id=3D6wpHPeYklX=
+23G1RiIiMDqw%3D%3D&amp;ct=3D1405220691918663&amp;src=3D1&amp;ty=3D1&amp;cli=
+ck_pos=3D2&amp;st=3D1405220706032597&amp;source=3D1&amp;stories=3D1_I6P1I1p=
+Cpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o5xKRIceZlK&amp;v=
+=3D0&amp;aty=3D4" style=3D"color:#19558d; text-decoration:none; font-weight=
+:bold">What can I start doing now that will help me a lot in about five yea=
+rs?</a></div>
+<table cellpadding=3D"0" style=3D"width:555px; line-height:1.2em; font-fami=
+ly:'Helvetica Neue',Helvetica,Arial,sans-serif; border-spacing:0; font-size=
+:15px; border:0; margin-top:4px" cellspacing=3D"0" width=3D"555"><tbody>
+<td width=3D"28" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans=
+-serif; border-collapse:collapse; background-color:#FFFFFF; background-repe=
+at:no-repeat" background=3D"http://qsf.is.quoracdn.net/-f306c8411e95eb1c.jp=
+g" valign=3D"top" bgcolor=3D"#FFFFFF"><div style=3D"text-align:center; font=
+-weight:bold; font-size:.8em; width:28px; height:21px; margin:1px 0 1px 0" =
+align=3D"center" width=3D"28" height=3D"21"><a href=3D"http://www.quora.com=
+/qemail/track_click?uid=3D9rZnI5Zbbwq&amp;aoid=3DjfLxmluhoUa&amp;request_id=
+=3D238898220838628538&amp;aoty=3D1&amp;et=3D2&amp;ty_data=3DjfLxmluhoUa&amp=
+;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=3D1405220691918663&amp;src=3D1&am=
+p;ty=3D1&amp;click_pos=3D2&amp;st=3D1405220706032597&amp;source=3D1&amp;sto=
+ries=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o5x=
+KRIceZlK&amp;v=3D0&amp;aty=3D4" style=3D"text-decoration:none; color:#538dc=
+2; display:block; text-align:center" align=3D"center">526</a></div></td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; padding-left:5px">
+<div style=3D"text-align:left; font-family:'Helvetica Neue',Helvetica,Arial=
+,sans-serif; margin-bottom:5px" align=3D"left"><div style=3D"font-weight: b=
+old"><a style=3D"text-decoration:none; color:#333333; font-weight:inherit" =
+href=3D"http://www.quora.com/qemail/track_click?uid=3D9rZnI5Zbbwq&amp;aoid=
+=3DdJj8hazgK7Z&amp;request_id=3D238898220838628538&amp;aoty=3D3&amp;et=3D2&=
+amp;ty_data=3DjfLxmluhoUa&amp;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=3D14=
+05220691918663&amp;src=3D1&amp;ty=3D1&amp;click_pos=3D2&amp;st=3D1405220706=
+032597&amp;source=3D1&amp;stories=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHplt=
+B9tTF%7C1_qwmNh0i4xQx%7C1_o5xKRIceZlK&amp;v=3D0&amp;aty=3D4">Sandy Kelty</a=
+></div></div>
+<div style=3D"text-align:left; font-family:'Helvetica Neue',Helvetica,Arial=
+,sans-serif; color:#333; line-height:1.4em; margin-bottom:5px" align=3D"lef=
+t"><a style=3D"text-decoration:none; color:#333" href=3D"http://www.quora.c=
+om/qemail/track_click?uid=3D9rZnI5Zbbwq&amp;aoid=3DjfLxmluhoUa&amp;request_=
+id=3D238898220838628538&amp;aoty=3D1&amp;et=3D2&amp;ty_data=3DjfLxmluhoUa&a=
+mp;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=3D1405220691918663&amp;src=3D1&=
+amp;ty=3D1&amp;click_pos=3D2&amp;st=3D1405220706032597&amp;source=3D1&amp;s=
+tories=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o=
+5xKRIceZlK&amp;v=3D0&amp;aty=3D4"><div id=3D"ld_yuqtcs_451"><div id=3D"__w2=
+_fBmvTi7_truncated">I just lost my son of 23 years ...two months ago in a t=
+ragic bike accident, he was riding to work and was hit by a school bus. He =
+loved Quora and got me hooked.<br style=3D"line-height:100%"><br style=3D"l=
+ine-height:100%">Live wit...&#160;<a style=3D"text-decoration:none; color:#=
+538DC2" href=3D"http://www.quora.com/qemail/track_click?uid=3D9rZnI5Zbbwq&a=
+mp;aoid=3DjfLxmluhoUa&amp;request_id=3D238898220838628538&amp;aoty=3D1&amp;=
+et=3D2&amp;ty_data=3DjfLxmluhoUa&amp;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;=
+ct=3D1405220691918663&amp;src=3D1&amp;ty=3D1&amp;click_pos=3D2&amp;st=3D140=
+5220706032597&amp;source=3D1&amp;stories=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1=
+_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o5xKRIceZlK&amp;v=3D0&amp;aty=3D4">Read Mo=
+re&#160;&#187;</a>
+</div></div></a></div>
+</td>
+</tbody></table>
+</td>
+</tr></tbody></table></td>
+<td width=3D"0" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-=
+serif; border-collapse:collapse"><img width=3D"1" style=3D"outline:0; text-=
+decoration:none; border-style:none" height=3D"1" src=3D"http://qsf.is.quora=
+cdn.net/-9da8ebb0c97aa4ad.gif"></td>
+</tr></tbody></table>
+<table cellpadding=3D"0" width=3D"650" cellspacing=3D"0" style=3D"line-heig=
+ht:1.2em; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; border-s=
+pacing:0; font-size:15px; border:0"><tbody><tr valign=3D"top" style=3D"bord=
+er-collapse:collapse">
+<td width=3D"0" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-=
+serif; border-collapse:collapse"><img width=3D"1" style=3D"outline:0; text-=
+decoration:none; border-style:none" height=3D"1" src=3D"http://qsf.is.quora=
+cdn.net/-9da8ebb0c97aa4ad.gif"></td>
+<td width=3D"650" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,san=
+s-serif; border-collapse:collapse; padding:20px 0 0"><table cellpadding=3D"=
+0" width=3D"650" cellspacing=3D"0" style=3D"line-height:1.2em; font-family:=
+'Helvetica Neue',Helvetica,Arial,sans-serif; border-spacing:0; font-size:15=
+px; border:0"><tbody><tr valign=3D"top" style=3D"border-collapse:collapse">
+<td valign=3D"top" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sa=
+ns-serif; border-collapse:collapse; width:35px; text-align:center" width=3D=
+"35" align=3D"center"></td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; width:555px; padding-bottom:20px; border-bottom:2px so=
+lid #eee" width=3D"555">
+<table><tbody><tr valign=3D"top" style=3D"border-collapse:collapse">
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; width:29px; text-align:left" width=3D"29" align=3D"lef=
+t"></td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse"></td>
+</tr></tbody></table>
+<div style=3D"text-align:left; font-family:'Helvetica Neue',Helvetica,Arial=
+,sans-serif" align=3D"left"><a href=3D"http://www.quora.com/qemail/track_cl=
+ick?uid=3D9rZnI5Zbbwq&amp;aoid=3D1yHVDcLsd1h&amp;request_id=3D2388982208386=
+28538&amp;aoty=3D2&amp;et=3D2&amp;ty_data=3DzTHpltB9tTF&amp;id=3D6wpHPeYklX=
+23G1RiIiMDqw%3D%3D&amp;ct=3D1405220691918663&amp;src=3D1&amp;ty=3D1&amp;cli=
+ck_pos=3D3&amp;st=3D1405220706032597&amp;source=3D1&amp;stories=3D1_I6P1I1p=
+Cpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o5xKRIceZlK&amp;v=
+=3D0&amp;aty=3D4" style=3D"color:#19558d; text-decoration:none; font-weight=
+:bold">What would happen if the Vice President of the United States killed =
+the President of the United States?</a></div>
+<table cellpadding=3D"0" style=3D"width:555px; line-height:1.2em; font-fami=
+ly:'Helvetica Neue',Helvetica,Arial,sans-serif; border-spacing:0; font-size=
+:15px; border:0; margin-top:4px" cellspacing=3D"0" width=3D"555"><tbody>
+<td width=3D"28" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans=
+-serif; border-collapse:collapse; background-color:#FFFFFF; background-repe=
+at:no-repeat" background=3D"http://qsf.is.quoracdn.net/-f306c8411e95eb1c.jp=
+g" valign=3D"top" bgcolor=3D"#FFFFFF"><div style=3D"text-align:center; font=
+-weight:bold; font-size:.8em; width:28px; height:21px; margin:1px 0 1px 0" =
+align=3D"center" width=3D"28" height=3D"21"><a href=3D"http://www.quora.com=
+/qemail/track_click?uid=3D9rZnI5Zbbwq&amp;aoid=3DzTHpltB9tTF&amp;request_id=
+=3D238898220838628538&amp;aoty=3D1&amp;et=3D2&amp;ty_data=3DzTHpltB9tTF&amp=
+;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=3D1405220691918663&amp;src=3D1&am=
+p;ty=3D1&amp;click_pos=3D3&amp;st=3D1405220706032597&amp;source=3D1&amp;sto=
+ries=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o5x=
+KRIceZlK&amp;v=3D0&amp;aty=3D4" style=3D"text-decoration:none; color:#538dc=
+2; display:block; text-align:center" align=3D"center">568</a></div></td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; padding-left:5px">
+<div style=3D"text-align:left; font-family:'Helvetica Neue',Helvetica,Arial=
+,sans-serif; margin-bottom:5px" align=3D"left"><div style=3D"font-weight: b=
+old">
+<a style=3D"text-decoration:none; color:#333333; font-weight:inherit" href=
+=3D"http://www.quora.com/qemail/track_click?uid=3D9rZnI5Zbbwq&amp;aoid=3Dmn=
+oZU2bPT1D&amp;request_id=3D238898220838628538&amp;aoty=3D3&amp;et=3D2&amp;t=
+y_data=3DzTHpltB9tTF&amp;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=3D1405220=
+691918663&amp;src=3D1&amp;ty=3D1&amp;click_pos=3D3&amp;st=3D140522070603259=
+7&amp;source=3D1&amp;stories=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF=
+%7C1_qwmNh0i4xQx%7C1_o5xKRIceZlK&amp;v=3D0&amp;aty=3D4">Mark Binfield</a><s=
+pan style=3D"font-weight: bold">, Bureaucratic Minion</span>
+</div></div>
+<div style=3D"text-align:left; font-family:'Helvetica Neue',Helvetica,Arial=
+,sans-serif; color:#333; line-height:1.4em; margin-bottom:5px" align=3D"lef=
+t"><a style=3D"text-decoration:none; color:#333" href=3D"http://www.quora.c=
+om/qemail/track_click?uid=3D9rZnI5Zbbwq&amp;aoid=3DzTHpltB9tTF&amp;request_=
+id=3D238898220838628538&amp;aoty=3D1&amp;et=3D2&amp;ty_data=3DzTHpltB9tTF&a=
+mp;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=3D1405220691918663&amp;src=3D1&=
+amp;ty=3D1&amp;click_pos=3D3&amp;st=3D1405220706032597&amp;source=3D1&amp;s=
+tories=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o=
+5xKRIceZlK&amp;v=3D0&amp;aty=3D4"><div id=3D"ld_yuqtcs_452"><div id=3D"__w2=
+_GYBUvqh_truncated">The first thing that would happen is that under Section=
+ 1 of the Twenty-Fifth Amendment, the Vice President would automatically be=
+come President.<br style=3D"line-height:100%"><br style=3D"line-height:100%=
+">If the circumstances of ...&#160;<a style=3D"text-decoration:none; color:=
+#538DC2" href=3D"http://www.quora.com/qemail/track_click?uid=3D9rZnI5Zbbwq&=
+amp;aoid=3DzTHpltB9tTF&amp;request_id=3D238898220838628538&amp;aoty=3D1&amp=
+;et=3D2&amp;ty_data=3DzTHpltB9tTF&amp;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp=
+;ct=3D1405220691918663&amp;src=3D1&amp;ty=3D1&amp;click_pos=3D3&amp;st=3D14=
+05220706032597&amp;source=3D1&amp;stories=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C=
+1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o5xKRIceZlK&amp;v=3D0&amp;aty=3D4">Read M=
+ore&#160;&#187;</a>
+</div></div></a></div>
+</td>
+</tbody></table>
+</td>
+</tr></tbody></table></td>
+<td width=3D"0" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-=
+serif; border-collapse:collapse"><img width=3D"1" style=3D"outline:0; text-=
+decoration:none; border-style:none" height=3D"1" src=3D"http://qsf.is.quora=
+cdn.net/-9da8ebb0c97aa4ad.gif"></td>
+</tr></tbody></table>
+<table cellpadding=3D"0" width=3D"650" cellspacing=3D"0" style=3D"line-heig=
+ht:1.2em; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; border-s=
+pacing:0; font-size:15px; border:0"><tbody><tr valign=3D"top" style=3D"bord=
+er-collapse:collapse">
+<td width=3D"0" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-=
+serif; border-collapse:collapse"><img width=3D"1" style=3D"outline:0; text-=
+decoration:none; border-style:none" height=3D"1" src=3D"http://qsf.is.quora=
+cdn.net/-9da8ebb0c97aa4ad.gif"></td>
+<td width=3D"650" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,san=
+s-serif; border-collapse:collapse; padding:20px 0 0"><table cellpadding=3D"=
+0" width=3D"650" cellspacing=3D"0" style=3D"line-height:1.2em; font-family:=
+'Helvetica Neue',Helvetica,Arial,sans-serif; border-spacing:0; font-size:15=
+px; border:0"><tbody><tr valign=3D"top" style=3D"border-collapse:collapse">
+<td valign=3D"top" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sa=
+ns-serif; border-collapse:collapse; width:35px; text-align:center" width=3D=
+"35" align=3D"center"></td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; width:555px; padding-bottom:20px; border-bottom:2px so=
+lid #eee" width=3D"555">
+<table><tbody><tr valign=3D"top" style=3D"border-collapse:collapse">
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; width:29px; text-align:left" width=3D"29" align=3D"lef=
+t"></td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse"></td>
+</tr></tbody></table>
+<div style=3D"text-align:left; font-family:'Helvetica Neue',Helvetica,Arial=
+,sans-serif" align=3D"left"><a href=3D"http://www.quora.com/qemail/track_cl=
+ick?uid=3D9rZnI5Zbbwq&amp;aoid=3DFOBcgvomiti&amp;request_id=3D2388982208386=
+28538&amp;aoty=3D2&amp;et=3D2&amp;ty_data=3DqwmNh0i4xQx&amp;id=3D6wpHPeYklX=
+23G1RiIiMDqw%3D%3D&amp;ct=3D1405220691918663&amp;src=3D1&amp;ty=3D1&amp;cli=
+ck_pos=3D4&amp;st=3D1405220706032597&amp;source=3D1&amp;stories=3D1_I6P1I1p=
+Cpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o5xKRIceZlK&amp;v=
+=3D0&amp;aty=3D4" style=3D"color:#19558d; text-decoration:none; font-weight=
+:bold">Why do Chinese people always like to point out that China has a 5,00=
+0 year old history when in fact it is the same for pretty much everywhere o=
+n Earth?</a></div>
+<table cellpadding=3D"0" style=3D"width:555px; line-height:1.2em; font-fami=
+ly:'Helvetica Neue',Helvetica,Arial,sans-serif; border-spacing:0; font-size=
+:15px; border:0; margin-top:4px" cellspacing=3D"0" width=3D"555"><tbody>
+<td width=3D"28" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans=
+-serif; border-collapse:collapse; background-color:#FFFFFF; background-repe=
+at:no-repeat" background=3D"http://qsf.is.quoracdn.net/-f306c8411e95eb1c.jp=
+g" valign=3D"top" bgcolor=3D"#FFFFFF"><div style=3D"text-align:center; font=
+-weight:bold; font-size:.8em; width:28px; height:21px; margin:1px 0 1px 0" =
+align=3D"center" width=3D"28" height=3D"21"><a href=3D"http://www.quora.com=
+/qemail/track_click?uid=3D9rZnI5Zbbwq&amp;aoid=3DqwmNh0i4xQx&amp;request_id=
+=3D238898220838628538&amp;aoty=3D1&amp;et=3D2&amp;ty_data=3DqwmNh0i4xQx&amp=
+;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=3D1405220691918663&amp;src=3D1&am=
+p;ty=3D1&amp;click_pos=3D4&amp;st=3D1405220706032597&amp;source=3D1&amp;sto=
+ries=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o5x=
+KRIceZlK&amp;v=3D0&amp;aty=3D4" style=3D"text-decoration:none; color:#538dc=
+2; display:block; text-align:center" align=3D"center">528</a></div></td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; padding-left:5px">
+<div style=3D"text-align:left; font-family:'Helvetica Neue',Helvetica,Arial=
+,sans-serif; margin-bottom:5px" align=3D"left"><div style=3D"font-weight: b=
+old">
+<a style=3D"text-decoration:none; color:#333333; font-weight:inherit" href=
+=3D"http://www.quora.com/qemail/track_click?uid=3D9rZnI5Zbbwq&amp;aoid=3DIe=
+bcMErkXKu&amp;request_id=3D238898220838628538&amp;aoty=3D3&amp;et=3D2&amp;t=
+y_data=3DqwmNh0i4xQx&amp;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=3D1405220=
+691918663&amp;src=3D1&amp;ty=3D1&amp;click_pos=3D4&amp;st=3D140522070603259=
+7&amp;source=3D1&amp;stories=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF=
+%7C1_qwmNh0i4xQx%7C1_o5xKRIceZlK&amp;v=3D0&amp;aty=3D4">Judith Meyer</a><sp=
+an style=3D"font-weight: bold">, Reading Chinese novels and visited China</=
+span>
+</div></div>
+<div style=3D"text-align:left; font-family:'Helvetica Neue',Helvetica,Arial=
+,sans-serif; color:#333; line-height:1.4em; margin-bottom:5px" align=3D"lef=
+t"><a style=3D"text-decoration:none; color:#333" href=3D"http://www.quora.c=
+om/qemail/track_click?uid=3D9rZnI5Zbbwq&amp;aoid=3DqwmNh0i4xQx&amp;request_=
+id=3D238898220838628538&amp;aoty=3D1&amp;et=3D2&amp;ty_data=3DqwmNh0i4xQx&a=
+mp;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=3D1405220691918663&amp;src=3D1&=
+amp;ty=3D1&amp;click_pos=3D4&amp;st=3D1405220706032597&amp;source=3D1&amp;s=
+tories=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o=
+5xKRIceZlK&amp;v=3D0&amp;aty=3D4"><div id=3D"ld_yuqtcs_453"><div id=3D"__w2=
+_UAJi3yl_truncated">Because the Chinese <b>identify</b> more with their ear=
+ly history than other places do. For example, French students learn about "=
+the Romans", not "the French nation in 50 BC". Al...&#160;<a style=3D"text-=
+decoration:none; color:#538DC2" href=3D"http://www.quora.com/qemail/track_c=
+lick?uid=3D9rZnI5Zbbwq&amp;aoid=3DqwmNh0i4xQx&amp;request_id=3D238898220838=
+628538&amp;aoty=3D1&amp;et=3D2&amp;ty_data=3DqwmNh0i4xQx&amp;id=3D6wpHPeYkl=
+X23G1RiIiMDqw%3D%3D&amp;ct=3D1405220691918663&amp;src=3D1&amp;ty=3D1&amp;cl=
+ick_pos=3D4&amp;st=3D1405220706032597&amp;source=3D1&amp;stories=3D1_I6P1I1=
+pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o5xKRIceZlK&amp;v=
+=3D0&amp;aty=3D4">Read More&#160;&#187;</a>
+</div></div></a></div>
+</td>
+</tbody></table>
+</td>
+</tr></tbody></table></td>
+<td width=3D"0" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-=
+serif; border-collapse:collapse"><img width=3D"1" style=3D"outline:0; text-=
+decoration:none; border-style:none" height=3D"1" src=3D"http://qsf.is.quora=
+cdn.net/-9da8ebb0c97aa4ad.gif"></td>
+</tr></tbody></table>
+<table cellpadding=3D"0" width=3D"650" cellspacing=3D"0" style=3D"line-heig=
+ht:1.2em; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; border-s=
+pacing:0; font-size:15px; border:0"><tbody><tr valign=3D"top" style=3D"bord=
+er-collapse:collapse">
+<td width=3D"0" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-=
+serif; border-collapse:collapse"><img width=3D"1" style=3D"outline:0; text-=
+decoration:none; border-style:none" height=3D"1" src=3D"http://qsf.is.quora=
+cdn.net/-9da8ebb0c97aa4ad.gif"></td>
+<td width=3D"650" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,san=
+s-serif; border-collapse:collapse; padding:20px 0 0"><table cellpadding=3D"=
+0" width=3D"650" cellspacing=3D"0" style=3D"line-height:1.2em; font-family:=
+'Helvetica Neue',Helvetica,Arial,sans-serif; border-spacing:0; font-size:15=
+px; border:0"><tbody><tr valign=3D"top" style=3D"border-collapse:collapse">
+<td valign=3D"top" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sa=
+ns-serif; border-collapse:collapse; width:35px; text-align:center" width=3D=
+"35" align=3D"center"></td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; width:555px; padding-bottom:20px; border-bottom:2px so=
+lid #eee" width=3D"555">
+<table><tbody><tr valign=3D"top" style=3D"border-collapse:collapse">
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; width:29px; text-align:left" width=3D"29" align=3D"lef=
+t"></td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse"></td>
+</tr></tbody></table>
+<div style=3D"text-align:left; font-family:'Helvetica Neue',Helvetica,Arial=
+,sans-serif" align=3D"left"><a href=3D"http://www.quora.com/qemail/track_cl=
+ick?uid=3D9rZnI5Zbbwq&amp;aoid=3DIa7bYnHjhJQ&amp;request_id=3D2388982208386=
+28538&amp;aoty=3D2&amp;et=3D2&amp;ty_data=3Do5xKRIceZlK&amp;id=3D6wpHPeYklX=
+23G1RiIiMDqw%3D%3D&amp;ct=3D1405220691918663&amp;src=3D1&amp;ty=3D1&amp;cli=
+ck_pos=3D5&amp;st=3D1405220706032597&amp;source=3D1&amp;stories=3D1_I6P1I1p=
+Cpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o5xKRIceZlK&amp;v=
+=3D0&amp;aty=3D4" style=3D"color:#19558d; text-decoration:none; font-weight=
+:bold">What are the strangest ways people have become famous?</a></div>
+<table cellpadding=3D"0" style=3D"width:555px; line-height:1.2em; font-fami=
+ly:'Helvetica Neue',Helvetica,Arial,sans-serif; border-spacing:0; font-size=
+:15px; border:0; margin-top:4px" cellspacing=3D"0" width=3D"555"><tbody>
+<td width=3D"28" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans=
+-serif; border-collapse:collapse; background-color:#FFFFFF; background-repe=
+at:no-repeat" background=3D"http://qsf.is.quoracdn.net/-f306c8411e95eb1c.jp=
+g" valign=3D"top" bgcolor=3D"#FFFFFF"><div style=3D"text-align:center; font=
+-weight:bold; font-size:.8em; width:28px; height:21px; margin:1px 0 1px 0" =
+align=3D"center" width=3D"28" height=3D"21"><a href=3D"http://www.quora.com=
+/qemail/track_click?uid=3D9rZnI5Zbbwq&amp;aoid=3Do5xKRIceZlK&amp;request_id=
+=3D238898220838628538&amp;aoty=3D1&amp;et=3D2&amp;ty_data=3Do5xKRIceZlK&amp=
+;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=3D1405220691918663&amp;src=3D1&am=
+p;ty=3D1&amp;click_pos=3D5&amp;st=3D1405220706032597&amp;source=3D1&amp;sto=
+ries=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o5x=
+KRIceZlK&amp;v=3D0&amp;aty=3D4" style=3D"text-decoration:none; color:#538dc=
+2; display:block; text-align:center" align=3D"center">438</a></div></td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse; padding-left:5px">
+<div style=3D"text-align:left; font-family:'Helvetica Neue',Helvetica,Arial=
+,sans-serif; margin-bottom:5px" align=3D"left"><div style=3D"font-weight: b=
+old">
+<a style=3D"text-decoration:none; color:#333333; font-weight:inherit" href=
+=3D"http://www.quora.com/qemail/track_click?uid=3D9rZnI5Zbbwq&amp;aoid=3Dzi=
+DRs6T4tMK&amp;request_id=3D238898220838628538&amp;aoty=3D3&amp;et=3D2&amp;t=
+y_data=3Do5xKRIceZlK&amp;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=3D1405220=
+691918663&amp;src=3D1&amp;ty=3D1&amp;click_pos=3D5&amp;st=3D140522070603259=
+7&amp;source=3D1&amp;stories=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF=
+%7C1_qwmNh0i4xQx%7C1_o5xKRIceZlK&amp;v=3D0&amp;aty=3D4">Makiko Itoh</a><spa=
+n style=3D"font-weight: bold">, far beyond the stars</span>
+</div></div>
+<div style=3D"text-align:left; font-family:'Helvetica Neue',Helvetica,Arial=
+,sans-serif; color:#333; line-height:1.4em; margin-bottom:5px" align=3D"lef=
+t"><a style=3D"text-decoration:none; color:#333" href=3D"http://www.quora.c=
+om/qemail/track_click?uid=3D9rZnI5Zbbwq&amp;aoid=3Do5xKRIceZlK&amp;request_=
+id=3D238898220838628538&amp;aoty=3D1&amp;et=3D2&amp;ty_data=3Do5xKRIceZlK&a=
+mp;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=3D1405220691918663&amp;src=3D1&=
+amp;ty=3D1&amp;click_pos=3D5&amp;st=3D1405220706032597&amp;source=3D1&amp;s=
+tories=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o=
+5xKRIceZlK&amp;v=3D0&amp;aty=3D4"><div id=3D"ld_yuqtcs_454"><div id=3D"__w2=
+_uv2xajH_truncated">
+<div><div><img src=3D"http://qph.is.quoracdn.net/main-qimg-7350213ed8c0f279=
+c6be7d91f5ce7955?convert_to_webp=3Dtrue" master_src=3D"http://qph.is.quorac=
+dn.net/main-qimg-7350213ed8c0f279c6be7d91f5ce7955?convert_to_webp=3Dtrue" m=
+aster_w=3D"485" master_h=3D"338" style=3D"outline:0; text-decoration:none; =
+max-width:200px; max-height:100px; float:left; margin-right:5px; border-sty=
+le:none"></div></div>
+<b>Henrietta Lacks</b><br style=3D"line-height:100%"><br style=3D"line-heig=
+ht:100%">Henrietta Lacks became famous, not because of anything she did dur=
+ing her life, but because she had exceptionally robust cells. An African-Am=
+erican mother...&#160;<a style=3D"text-decoration:none; color:#538DC2" href=
+=3D"http://www.quora.com/qemail/track_click?uid=3D9rZnI5Zbbwq&amp;aoid=3Do5=
+xKRIceZlK&amp;request_id=3D238898220838628538&amp;aoty=3D1&amp;et=3D2&amp;t=
+y_data=3Do5xKRIceZlK&amp;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=3D1405220=
+691918663&amp;src=3D1&amp;ty=3D1&amp;click_pos=3D5&amp;st=3D140522070603259=
+7&amp;source=3D1&amp;stories=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF=
+%7C1_qwmNh0i4xQx%7C1_o5xKRIceZlK&amp;v=3D0&amp;aty=3D4">Read More&#160;&#18=
+7;</a>
+</div></div></a></div>
+</td>
+</tbody></table>
+</td>
+</tr></tbody></table></td>
+<td width=3D"0" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-=
+serif; border-collapse:collapse"><img width=3D"1" style=3D"outline:0; text-=
+decoration:none; border-style:none" height=3D"1" src=3D"http://qsf.is.quora=
+cdn.net/-9da8ebb0c97aa4ad.gif"></td>
+</tr></tbody></table>
+<img src=3D"http://www.quora.com/qemail/mark_read?src=3D1&amp;uid=3D9rZnI5Z=
+bbwq&amp;request_id=3D238898220838628538&amp;st=3D1405220706032597&amp;stor=
+ies=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwmNh0i4xQx%7C1_o5xK=
+RIceZlK&amp;v=3D0&amp;et=3D2&amp;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=
+=3D1405220691918663" height=3D"1" width=3D"1" style=3D"outline:0; text-deco=
+ration:none; border-style:none"><table><tbody><tr style=3D"border-collapse:=
+collapse">
+<td width=3D"30" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans=
+-serif; border-collapse:collapse">&#160;</td>
+<td style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; borde=
+r-collapse:collapse"><a href=3D"http://www.quora.com/qemail/track_click?uid=
+=3D9rZnI5Zbbwq&amp;aoid&amp;request_id=3D238898220838628538&amp;aoty=3D7&am=
+p;et=3D2&amp;ty_data&amp;id=3D6wpHPeYklX23G1RiIiMDqw%3D%3D&amp;ct=3D1405220=
+691918663&amp;src=3D1&amp;ty&amp;click_pos=3D0&amp;st=3D1405220706032597&am=
+p;source&amp;stories=3D1_I6P1I1pCpy%7C1_jfLxmluhoUa%7C1_zTHpltB9tTF%7C1_qwm=
+Nh0i4xQx%7C1_o5xKRIceZlK&amp;v=3D0&amp;aty=3D4" style=3D"text-decoration:no=
+ne; text-align:center; background:#dfeaf4; font-size:15px; display:block; p=
+adding:15px 0; color:#538dc2; width:616px; margin-top:-4px" width=3D"616" a=
+lign=3D"center"><strong>Read More in Your Feed</strong></a></td>
+</tr></tbody></table>
+</td></tr>
+<tr style=3D"border-collapse:collapse"><td height=3D"10" style=3D"font-fami=
+ly:'Helvetica Neue',Arial,Helvetica,sans-serif; border-collapse:collapse">&=
+#160;</td></tr>
+</tbody></table></td>
+<td width=3D"30" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans=
+-serif; border-collapse:collapse">&#160;</td>
+</tr></tbody></table></td></tr>
+<tr style=3D"border-collapse:collapse"><td width=3D"100%" style=3D"font-fam=
+ily:'Helvetica Neue',Arial,Helvetica,sans-serif; border-collapse:collapse">=
+<table cellpadding=3D"0" border=3D"0" cellspacing=3D"0" width=3D"100%" id=
+=3D"footer"><tbody><tr style=3D"border-collapse:collapse">
+<td width=3D"30" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans=
+-serif; border-collapse:collapse">&#160;</td>
+<td valign=3D"top" id=3D"footer_text_cell" style=3D"font-family:'Helvetica =
+Neue',Arial,Helvetica,sans-serif; border-collapse:collapse; color:#999; fon=
+t-size:10px"><div>This email was sent by Quora (650 Castro Street #450, Mou=
+ntain View, CA 94041). Quora is your best source for knowledge. <a href=3D"=
+http://www.quora.com/email_optout/qemail_optout?code=3Df625b677702791450617=
+707ba430d97d&amp;type=3D2&amp;email=3Dbrydavis.mpa%40gmail.com" style=3D"co=
+lor:#19558d; text-decoration:none">Unsubscribe</a> from this email.</div></=
+td>
+<td width=3D"30" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans=
+-serif; border-collapse:collapse">&#160;</td>
+</tr></tbody></table></td></tr>
+<tr style=3D"border-collapse:collapse"><td bgcolor=3D"#ffffff" height=3D"15=
+" style=3D"font-family:'Helvetica Neue',Arial,Helvetica,sans-serif; border-=
+collapse:collapse">&#160;</td></tr>
+</tbody></table></td></tr></tbody></table>
+<div style=3D"width: 380px">&#160;</div>
+</div>
+</body></html>
+
+<img src=3D"http://email.quora.com/wf/open?upn=3DgfTwC5uMkjzzBJT37kLn6TLKHW=
+XJCasqqWhdg8H5-2BidEB79dILxgnqw0S5Kz7GX-2FLRHjwoPaOyKQ-2FxUQs6xTsjk-2BPYdXd=
+T3snRph969Pze0ma5Rc5sPzS-2Fw4UkRQEN0uqzxGecQVrhtcLRlNIh3V5-2Fa9og0U7m93rD1f=
+Si0CNRLGkgiZMvRuQXeh3dLGUw-2BtNCRHwX3HwvnoccVow0UzSw-3D-3D" alt=3D"" width=
+=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !=
+important;border-width:0 !important;margin-top:0 !important;margin-bottom:0=
+ !important;margin-right:0 !important;margin-left:0 !important;padding-top:=
+0 !important;padding-bottom:0 !important;padding-right:0 !important;padding=
+-left:0 !important;"/>
+</body></html>
+
+--===============1681625162==--

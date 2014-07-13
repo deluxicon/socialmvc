@@ -1,0 +1,28 @@
+{
+  "name": "socialmvc",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "clear; echo ih82mac | sudo -S nodemon start.js"
+  },
+  "dependencies": {
+    "async": "latest",
+    "body-parser": "~1.0.0",
+    "cookie-parser": "~1.0.1",
+    "debug": "~0.7.4",
+    "ejs": "~0.8.5",
+    "escape-html": "^1.0.1",
+    "express": "~4.2.0",
+    "express-session": "latest",
+    "inbox": "^1.1.57",
+    "mailparser": "^0.4.4",
+    "mongoose": "latest",
+    "morgan": "~1.0.0",
+    "mysql": "latest",
+    "nodemailer": "latest",
+    "nodemon": "latest",
+    "simplesmtp": "^0.3.32",
+    "sqlite3": "^2.2.3",
+    "static-favicon": "~1.0.0"
+  }
+}
